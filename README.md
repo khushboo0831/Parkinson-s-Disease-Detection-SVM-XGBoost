@@ -8,7 +8,7 @@ Parkinson’s Disease is a progressive neurological disorder that affects moveme
 
 ## 📂 Dataset
 
-* **Source**:https://www.kaggle.com/nidaguler/parkinsons-data-
+* **Source**:https://www.kaggle.com/datasets/sagarbapodara/parkinson-csv
 * **Features**: Biomedical voice measurements like:
 
   * MDVP\:Fo(Hz), MDVP\:Fhi(Hz), MDVP\:Flo(Hz)
